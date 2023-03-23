@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am l415 on github.
+  * I am lals (https://keybase.io/lals) on keybase.
+  * I have a public key ASADicwJ0hBYIQQFjUNx_z0L8cStMa4b3jP3WtbYCGoWZgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200389cc09d210582104058d4371ff3d0bf1c4ad31ae1bde33f75ad6d8086a16660a",
+      "host": "keybase.io",
+      "kid": "01200389cc09d210582104058d4371ff3d0bf1c4ad31ae1bde33f75ad6d8086a16660a",
+      "uid": "1cf747960c7ae6a46dccd386d6d2fa19",
+      "username": "lals"
+    },
+    "merkle_root": {
+      "ctime": 1679604996,
+      "hash": "b022df2f50da4db799c4ac09a97ab990123a7933bc506029af4ac9074b7445b2769ce52907169361bb723503a5f3a2e6048f835e08ef3a8cdeccc7cc701161dc",
+      "hash_meta": "b0686ebbfd87d301966b31d5c1a695cae6aeed9ac0e93443228ae9d9953696fd",
+      "seqno": 24240142
+    },
+    "service": {
+      "entropy": "620rxcUXlbqmjQAyhkaKxMhk",
+      "name": "github",
+      "username": "l415"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1679605016,
+  "expire_in": 504576000,
+  "prev": "e07fe61b6be90fc6f9ec4a9fea8ea2c3591f4977c4dfd454519ea591b17495dd",
+  "seqno": 7,
+  "tag": "signature"
+}
+```
+
+with the key [ASADicwJ0hBYIQQFjUNx_z0L8cStMa4b3jP3WtbYCGoWZgo](https://keybase.io/lals), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA4nMCdIQWCEEBY1Dcf89C/HErTGuG94z91rW2AhqFmYKp3BheWxvYWTESpcCB8Qg4H/mG2vpD8b57Eqf6o6iw1kfSXfE39RUUZ6lkbF0ld3EIC6cCP6N+TvwubkgKnOebI+QsA2u6FeKEqzQE/qbJakEAgHCo3NpZ8RAAr7yAB55ZE+heGq/oqAk9wMasxrBLM/MQ2r7xk/9jL04zNcfA4/rJ4IFwMwwOMaTh228XhBBPWls4iVUq/nPA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIijnV9VGkXffDlwiFpVFzwWmwYH59f9i8CfMU1hBnmro3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/lals
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id lals
+```
